@@ -1,3 +1,3 @@
 # Aprendendo a usar o GitHub
  Meu primeiro Repositório do Curso de Git e GitHub!
- Essa linha rewsolvi alterar agora, porque só aprendi agora. rrsrsrs
+ Essa linha resolvi alterar agora, porque só aprendi agora. rrsrsrs
