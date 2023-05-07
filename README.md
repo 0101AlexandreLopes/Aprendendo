@@ -1,2 +1,2 @@
-# Aprendendo a usar o GITHUB
- Meu primeiro Repositório do Curso DE git E GitHub!
+# Aprendendo a usar o GitHub
+ Meu primeiro Repositório do Curso de Git E GitHub!
