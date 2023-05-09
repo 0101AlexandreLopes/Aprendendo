@@ -5,6 +5,6 @@
 
  Agora, vou finalizar  dia e deixar o resto para amanhã.
 
- Hoje quero escrever por aqui, porq que acho mais fácil
+ Hoje quero escrever por aqui, porque acho mais fácil
 
 
