@@ -4,3 +4,7 @@
  Essa linha resolvi alterar agora, porque só aprendi agora. rrsrsrs
 
  Agora, vou finalizar  dia e deixar o resto para amanhã.
+
+ Hoje quero escrever por aqui, porq que acho mais fácil
+
+
