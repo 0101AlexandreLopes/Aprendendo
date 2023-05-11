@@ -13,3 +13,4 @@
  Também vou alterar aqui
  
 Oi nção entendi o que está acontecendo. Acho que fiz algo esrrado, pois esse repositório não está aparecendo no VSC.
+inserindo um link : https://mail.google.com/mail/u/1/?ogbl#inbox/FMfcgzGsmWwpBtscKxpwXdrnMBvpvGSH
