@@ -12,4 +12,4 @@
  Vamos ter aula hoje à noite
  Também vou alterar aqui
  
-Oi nção enteid o que está acontecendo. Acho que fiz algo esrrado, pois esse repositório não está aparecendo no VSC.
+Oi nção entendi o que está acontecendo. Acho que fiz algo esrrado, pois esse repositório não está aparecendo no VSC.
