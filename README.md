@@ -11,4 +11,9 @@
  Olá bom dia
  Vamos ter aula hoje à noite
  Também vou alterar aqui
+ estou vendo que demora mesmo para deletar.
+ está indo
+ Hoje o dia está tenso
+ 
+ 
  
