@@ -22,4 +22,5 @@ inserindo um link : https://mail.google.com/mail/u/1/?ogbl#inbox/FMfcgzGsmWwpBts
 
 Agoa parece que ewstá tudo normal
 Poxa, hoje já fiz coisa pra caramba
+MArcou sim, eu que não vi
 
