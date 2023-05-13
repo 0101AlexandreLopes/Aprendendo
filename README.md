@@ -21,3 +21,5 @@ Oi nção entendi o que está acontecendo. Acho que fiz algo esrrado, pois esse 
 inserindo um link : https://mail.google.com/mail/u/1/?ogbl#inbox/FMfcgzGsmWwpBtscKxpwXdrnMBvpvGSH
 
 Agoa parece que ewstá tudo normal
+Poxa, hoje já fiz coisa pra caramba
+
