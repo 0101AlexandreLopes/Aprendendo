@@ -25,3 +25,4 @@ Poxa, hoje já fiz coisa pra caramba
 MArcou sim, eu que não vi
 
 Tenho que digitar e melhorar a minha performance
+Hoje eu não dormi direito
