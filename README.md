@@ -26,4 +26,4 @@ MArcou sim, eu que não vi
 
 Tenho que digitar e melhorar a minha performance
 Hoje eu não dormi direito
-Eu não sei o que vou fazer..o empo está passando.
+Eu não sei o que vou fazer..o tempo está passando.
