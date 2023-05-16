@@ -20,10 +20,12 @@
 Oi nção entendi o que está acontecendo. Acho que fiz algo esrrado, pois esse repositório não está aparecendo no VSC.
 inserindo um link : https://mail.google.com/mail/u/1/?ogbl#inbox/FMfcgzGsmWwpBtscKxpwXdrnMBvpvGSH
 
-Agoa parece que ewstá tudo normal
+Agoa parece que está tudo normal
 Poxa, hoje já fiz coisa pra caramba
 MArcou sim, eu que não vi
 
 Tenho que digitar e melhorar a minha performance
 Hoje eu não dormi direito
 Eu não sei o que vou fazer..o tempo está passando.
+
+Vamos ver e estamos no cminho certo!
