@@ -31,4 +31,4 @@ Eu não sei o que vou fazer..o tempo está passando.
 Vamos ver e estamos no cminho certo!
 
 Vamos ver se hoje conseigo entregar o que foi prometido na reunião
-
+perceba que quanto mais contribuições vai ficando mais escuro
