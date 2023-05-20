@@ -34,3 +34,4 @@ Vamos ver se hoje conseigo entregar o que foi prometido na reunião
 perceba que quanto mais contribuições vai ficando mais escuro
 Hoje será mais um dia produtivo de aprendizado.
 Uma contribuição hoje.
+mais um pouco, mais um pouco
