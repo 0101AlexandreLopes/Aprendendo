@@ -36,4 +36,5 @@ Hoje será mais um dia produtivo de aprendizado.
 Uma contribuição hoje.
 mais um pouco, mais um pouco.
 Uma oportunidade se vai.
+O Curso está terminando.
 
