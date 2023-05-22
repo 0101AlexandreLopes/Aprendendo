@@ -38,3 +38,4 @@ mais um pouco, mais um pouco.
 Uma oportunidade se vai.
 O Curso está terminando.
 
+Aprendendo Python
