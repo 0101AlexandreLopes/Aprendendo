@@ -39,3 +39,4 @@ Uma oportunidade se vai.
 O Curso está terminando.
 
 Aprendendo Python
+mais uma jornada se inicia, novos planos, expectativas
