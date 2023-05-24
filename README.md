@@ -42,3 +42,4 @@ O Curso está terminando.
 
 Aprendendo Python
 mais uma jornada se inicia, novos planos, expectativas
+Só mais um pull request
